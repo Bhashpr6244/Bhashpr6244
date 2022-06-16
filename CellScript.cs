@@ -17,6 +17,12 @@ public class CellScript : MonoBehaviour
     public static bool movedone = true;
 
 
+    void awake()
+    { 
+    
+    
+    }
+
     // Use this for initialization
     void Start()
     {
